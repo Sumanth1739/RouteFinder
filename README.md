@@ -1,2 +1,17 @@
-# HyderabadMetroJourneyPlanner
-DSA Applications on real life scenario
+# Hyderabad Metro Journey Planner 🚇
+
+A desktop-based Java application that helps users find the shortest route between Hyderabad Metro stations. Built using Java Swing and Dijkstra’s algorithm.
+
+## 🛠️ Tech Stack
+- Java
+- Swing (for GUI)
+- Graphs & Dijkstra Algorithm
+
+## 💡 Features
+- GUI-based metro planner
+- User selects source and destination
+- Displays shortest route with list of stations
+
+## 📂 How to Run
+- Open in any Java IDE (e.g., IntelliJ, Eclipse)
+- Run the main class (e.g., `Main.java` or similar)
