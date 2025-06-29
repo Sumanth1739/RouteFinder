@@ -6,7 +6,7 @@ public class MetroAppGUI {
     public static void main(String[] args) {
         Graph_M metroGraph = new Graph_M();
         Graph_M.Create_Hyderabad_Map(metroGraph);
-        System.out.println("✅ Total Stations Loaded: " + Graph_M.vtces.size());
+        System.out.println("✅ Total Stations Loaded " + Graph_M.vtces.size());
 
         // Extract clean station names for display
         Map<String, String> stationDisplayMap = new LinkedHashMap<>();
