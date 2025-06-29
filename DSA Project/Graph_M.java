@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 	
-	public class Graph_M 
+	public class Graph_M
 	{
 		public class Vertex 
 		{
