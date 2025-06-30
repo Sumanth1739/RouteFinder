@@ -4,8 +4,9 @@ A desktop-based Java application that helps users find the shortest route betwee
 
 ## 🛠️ Tech Stack
 - Java
-- Swing (for GUI)
 - Graphs & Dijkstra Algorithm
+- Swing (for GUI)
+
 
 ## 💡 Features
 - GUI-based metro planner
